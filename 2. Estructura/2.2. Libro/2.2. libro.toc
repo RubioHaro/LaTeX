@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\contentsline {part}{I\hspace {1em}}{3}% 
+\contentsline {chapter}{\numberline {1}Capitulo I}{7}% 
+\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{7}% 
+\contentsline {subsection}{\numberline {1.1.1}Uso}{7}% 
+\contentsline {subsection}{\numberline {1.1.2}Nombre y pronunciaci\IeC {\'o}n}{7}% 
+\contentsline {section}{\numberline {1.2}Instalaci\IeC {\'o}n}{7}% 
+\contentsline {subsection}{\numberline {1.2.1}ArchLinux}{7}% 
