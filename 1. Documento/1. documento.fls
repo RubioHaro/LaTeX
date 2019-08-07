@@ -1,0 +1,25 @@
+PWD /home/rodrigo_rubio/Documentos/curso latex
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.tex
+OUTPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.log
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.aux
+INPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.aux
+OUTPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.aux
+OUTPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/rodrigo_rubio/Documentos/curso latex/1. documento.aux
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
