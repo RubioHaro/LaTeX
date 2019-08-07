@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}% 
+\contentsline {subsection}{\numberline {1.1}Uso}{1}% 
+\contentsline {subsection}{\numberline {1.2}Nombre y pronunciaci\IeC {\'o}n}{1}% 
+\contentsline {section}{\numberline {2}Instalaci\IeC {\'o}n}{1}% 
+\contentsline {subsection}{\numberline {2.1}ArhLinux}{1}% 
+\contentsline {section}{\numberline {3}Bla bla bla}{2}% 
